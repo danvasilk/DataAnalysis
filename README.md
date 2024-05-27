@@ -1,8 +1,8 @@
-## DataAnalysis
+# DataAnalysis
 Писал код и тестировал в <i>Jupyter Lab\Notebook</i>. <br>
 Для работы с данными использовал библиотеку <i>pandas</i>. <br>
 Для построения графиков использовал библиотеку <i>matplotlib</i>. <br>
-# Решение к задаче 1
+## Решение к задаче 1
 Файл - "Test_exc_firsttask.ipynb"
 Алгоритм:
 1) загрузка данных командой: <br>`pd.read_excel('data.xlsb', sheet_name='data', engine='pyxlsb')`;
